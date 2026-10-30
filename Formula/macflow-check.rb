@@ -1,10 +1,10 @@
 class MacflowCheck < Formula
   desc "Read-only scan of your Mac's developer setup: AI agent configs, secrets, risky packages"
   homepage "https://github.com/mazharul/macflow-check"
-  url "https://github.com/mazharul/macflow-check/releases/download/v0.1.1/macflow-check-0.1.1-macos-universal.tar.gz"
-  sha256 "e4a2789d618697e2fc2496c08d306760e83c429c419c71446cde2135a76046b2"
+  url "https://github.com/mazharul/macflow-check/releases/download/v0.1.2/macflow-check-0.1.2-macos-universal.tar.gz"
+  sha256 "5ede25322c69c1e3dd48428d443997eabf3d4b2e704e660590404b8019bac145"
   license "MIT"
-  version "0.1.1"
+  version "0.1.2"
 
   depends_on :macos
 
